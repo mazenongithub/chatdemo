@@ -6,6 +6,7 @@
   height: 40vmin;
   pointer-events: none;
 }
+.sendmessage-1{fill:#29abe2;stroke:#000;stroke-miterlimit:10;stroke-width:5px;}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
